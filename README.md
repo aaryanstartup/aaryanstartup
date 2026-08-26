@@ -1,5 +1,5 @@
 # 💫 About Me:
-<div align="center"> <img src="profile.gif" width="180" style="border-radius: 50%;" alt="Aaryan Narang"/> </div>
+<div align="center"> <img src="profile1.gif" width="180" style="border-radius: 50%;" alt="Aaryan Narang"/> </div>
 I’m Aaryan Narang currently pursuing a BCA at IITM, exploring coding, <br>cybersecurity, data science, web development, business analytics<br>,and business intelligence. I’m passionate about technology, problem-solving,<br>and learning new skills by building and experimenting with<br>real-world projects.<br> 
 
 
